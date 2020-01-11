@@ -1,7 +1,7 @@
 # CMake File for VVVVVV
 # Written by Ethan "flibitijibibo" Lee
 
-CMAKE_MINIMUM_REQUIRED(VERSION 2.8.12)
+CMAKE_MINIMUM_REQUIRED(VERSION 3.4)
 
 # CMake Options
 OPTION(ENABLE_WARNINGS "Enable compilation warnings" ON)
